@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Barros Blog</title>
+    <link>https://sambarros.github.io/</link>
+    <description>Recent content on Sam Barros Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Feb 2024 15:46:00 +0100</lastBuildDate>
+    
+        <atom:link href="https://sambarros.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first post</title>
+      <link>https://sambarros.github.io/posts/my_post/</link>
+      <pubDate>Sun, 04 Feb 2024 15:46:00 +0100</pubDate>
+      
+      <guid>https://sambarros.github.io/posts/my_post/</guid>
+      <description>This is a content
+console.log(&amp;#39;JS code&amp;#39;) </description>
+    </item>
+    
+  </channel>
+</rss>
